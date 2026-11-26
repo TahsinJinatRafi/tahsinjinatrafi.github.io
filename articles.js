@@ -1,3 +1,13 @@
-// Add articles here. Copy an object and separate entries with commas.
-// { title:"Article title", date:"2026-12-01", category:"Philosophy", excerpt:"Short summary", content:"Full text" }
+
+// Add your articles here.
+// Copy an object and separate multiple entries with commas.
+//
+// Example:
+// {
+//   title: "The Importance of Critical Thinking",
+//   date: "2026-12-01",
+//   category: "Philosophy",
+//   excerpt: "A short introduction to critical thinking."
+// }
+
 const ARTICLES = [];
